@@ -4,4 +4,4 @@
 ficou lindo e acertei em tudo, até pesquisas!
 </p>
 
-<img src = "https://github.com/caua-dev-coder/Sorteador--DevClub/blob/main/assets/Captura%20de%20tela%202024-01-08%20122945.png?raw=true"
+<img src = "https://raw.githubusercontent.com/caua-dev-coder/Sorteador--DevClub/main/assets/Captura%20de%20tela%202024-01-08%20122945.png">
